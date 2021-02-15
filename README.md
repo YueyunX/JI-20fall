@@ -8,11 +8,11 @@ VV186 regular recitation class slides: to be uploaded
 VV186 big RC slides: mid1 uploaded, mid2&final to be uploaded
 
 Some general suggestions:
-1. Try to attend every lecture and stay awake. Focus on general ideas rather than technical tricks. 
-2. Complete every exercise in the assignments on your own first. 
-3. Review the lecture slides on a regular basis. 
-4. Attend recitation classes(RC) for a recap. Also it is recommended to come to office hour(OH) if there is any question. 
-5. Learn well and have fun.
+* Try to attend every lecture and stay awake. Focus on general ideas rather than technical tricks. 
+* Try to complete every exercise in the assignments on your own first. 
+* Review the lecture slides on a regular basis. 
+* Attend recitation classes(RC) for a recap. Also it is recommended to come to office hour(OH) if there is any question. 
+* Learn well and have fun.
 
 # VG101 Intro to Computer (Manuel's session) 
 VG101 homework: uploaded in VG101 directory           
